@@ -1,11 +1,14 @@
-h2.intro{
+.intro {
   font-weight: lighter;
-}
-
-img.intro {
-  max-width: 90%;
-}
-
-p.intro{
   font-family: cursive;
+}
+
+.italic {
+  color: orange;
+  font-weight: bold !important;
+}
+
+img {
+  margin: -10px;
+  max-width: 102%;
 }
